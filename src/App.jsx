@@ -1,5 +1,4 @@
-import { Header, Sidebar } from "./components/";
-import { Post } from "./Post";
+import { Header, Sidebar, Post } from "./components/";
 
 import styles from "./App.module.css";
 

@@ -16,7 +16,7 @@ export function Sidebar() {
           src="https://github.com/JonatanPaes.png"
         />
 
-        <strong>Jonatán Paes</strong>
+        <strong>Juninho Paes</strong>
         <span>Web Developer</span>
       </div>
 
