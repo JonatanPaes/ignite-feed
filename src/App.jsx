@@ -34,7 +34,7 @@ const posts = [
     id: 2,
     author: {
       avatarUrl:
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Ficon-user-male-avatar-business-5359553%2F&psig=AOvVaw3saW_JOP6w8UeimB1W0rkM&ust=1668438735656000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLiU3eK4q_sCFQAAAAAdAAAAABAE",
+        "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&q=80",
       name: "User Test",
       role: "Tester",
     },
